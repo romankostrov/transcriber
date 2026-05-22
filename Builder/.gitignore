@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/
+bin/
+output/
+dist/
+build/
+portable/
+*.spec
+_ffmpeg_download.zip
+_ffmpeg_extract/
